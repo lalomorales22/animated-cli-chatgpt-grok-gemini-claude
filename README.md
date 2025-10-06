@@ -1,7 +1,11 @@
 # 🎬 MEGA-CLI - Animated Terminal Chatbot
 
 
-https://github.com/user-attachments/assets/08f9be4e-68a1-4d72-baee-88acdd7b331d
+
+
+
+https://github.com/user-attachments/assets/61d5c2ef-096f-4d95-bc8f-68d8a29a9550
+
 
 
 A stunning multi-AI terminal chatbot with an animated video background that plays continuously while you chat, creating a cinematic 3D-like experience in your terminal!
